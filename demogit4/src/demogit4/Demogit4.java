@@ -9,5 +9,10 @@ public class Demogit4 {
        
        System.out.println("secong line added again commit push");
 	}
+	
+	public void m1() {
+		
+		System.out.println("branch-x git");
+	}
 
 }
